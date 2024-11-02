@@ -1,4 +1,4 @@
-# Actividad 0.4 Diagrama de Secuencia
+# Actividad 0.4 Diagrama de Secuencia Nueva nota
 ____
 ```mermaid
 sequenceDiagram
